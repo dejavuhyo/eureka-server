@@ -11,4 +11,4 @@ spring-cloud-netflix Eureka Server 설정
 
 ## 3. 실행
 
-* http://localhost:8761/
+* <http://localhost:8761>
