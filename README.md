@@ -1,4 +1,4 @@
-# eureka-server
+# Eureka Server
 
 ## 1. 설명
 spring-cloud-netflix Eureka Server 설정
