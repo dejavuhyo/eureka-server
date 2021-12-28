@@ -7,7 +7,7 @@ spring-cloud-netflix Eureka Server 설정
 
 * OpenJDK 11
 
-* Netflix Eureka 1.10.17
+* Spring Cloud Netflix Eureka Server 3.1.0
 
 ## 3. 실행
 
