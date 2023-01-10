@@ -1,4 +1,4 @@
-# Netflix Eureka Server
+# Spring Cloud Eureka Server
 
 ## 1. 설명
 Spring Cloud Netflix Eureka Server 설정이다. 포트는 8761을 사용한다.
